@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-basic-registration-form/static/css/main.6603d83a.css",
+    "main.js": "/react-basic-registration-form/static/js/main.83990cb9.js",
+    "index.html": "/react-basic-registration-form/index.html",
+    "main.6603d83a.css.map": "/react-basic-registration-form/static/css/main.6603d83a.css.map",
+    "main.83990cb9.js.map": "/react-basic-registration-form/static/js/main.83990cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6603d83a.css",
+    "static/js/main.83990cb9.js"
+  ]
+}
